@@ -1,0 +1,19 @@
+{
+  "name": "react-native-device-orientation",
+  "version": "0.0.1-alpha",
+  "description": "detect device orientation ios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://DrMabuse23@github.com/DrMabuse23/react-native-device-orientation.git"
+  },
+  "author": "Pascal Brewing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DrMabuse23/react-native-device-orientation/issues"
+  },
+  "homepage": "https://github.com/DrMabuse23/react-native-device-orientation#readme"
+}
