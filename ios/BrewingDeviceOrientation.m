@@ -1,4 +1,4 @@
-#import "BrewingOrientation.h"
+#import "BrewingDeviceOrientation.h"
 
 @implementation BrewingDeviceOrientation
 @synthesize bridge = _bridge;
