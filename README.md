@@ -1,6 +1,7 @@
 # react-native-device-orientation
-dispatch device orientation
-add the BrewingDeviceOrientation to your Xcode like [this](https://developer.apple.com/library/ios/recipes/xcode_help-structure_navigator/articles/Adding_an_Existing_File_or_Folder.html)
+Dispatch device orientation. 
+### Usage
+Add the BrewingDeviceOrientation to your Xcode like [this](https://developer.apple.com/library/ios/recipes/xcode_help-structure_navigator/articles/Adding_an_Existing_File_or_Folder.html)
 
 Example Usage React Native
 ````
