@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/DrMabuse23/react-native-device-orientation/issues"
   },
-  "homepage": "https://github.com/DrMabuse23/react-native-device-orientation#readme"
+  "homepage": "https://github.com/DrMabuse23/react-native-device-orientation#readme",
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios"
+  ],
+  "peerDependencies": {
+    "react-native": ">=0.8"
+  }
 }
