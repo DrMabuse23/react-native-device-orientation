@@ -22,6 +22,6 @@
     "ios"
   ],
   "peerDependencies": {
-    "react-native": ">=0.8"
+    "react-native": ">=0.7.0"
   }
 }
