@@ -1,6 +1,6 @@
 {
   "name": "react-native-device-orientation",
-  "version": "0.0.1-alpha",
+  "version": "0.0.2",
   "description": "detect device orientation ios",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,7 @@
     "url": "git+https://DrMabuse23@github.com/DrMabuse23/react-native-device-orientation.git"
   },
   "author": "Pascal Brewing",
+  "email" : "drmabuse@posteo.de",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/DrMabuse23/react-native-device-orientation/issues"
