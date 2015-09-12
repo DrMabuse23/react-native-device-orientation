@@ -18,9 +18,6 @@ RCT_EXPORT_MODULE();
     case UIDeviceOrientationPortrait:
       orientationIn = @"portrait-primary";
       break;
-    case UIDeviceOrientationPortraitUpsideDown:
-      orientationIn = @"portrait-secondary";
-      break;
     default:
       orientationIn = @"unknown";
       break;
